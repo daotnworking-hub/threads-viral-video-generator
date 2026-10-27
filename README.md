@@ -6,7 +6,11 @@ Tự động hóa sản xuất video viral chủ đề Threads (định dạng 9
 
 ## ✨ Điểm Nổi Bật
 
-- 🎬 **Chuyển cảnh 3 giây/lần (Chu kỳ Dopamine cao):** Tự động chuyển cảnh liên tục giữa các thước phim ASMR cắt cát động lực học, thái sushi 4K, nhỏ giọt espresso siêu cận, chảo bơ xèo xèo và phản ứng hóa học cầu vồng.
+- 🎬 **Chuyển cảnh 3 giây/lần đa dạng chủ đề (Multi-Topic Viral ASMR):** Tự động luân chuyển liên tục giữa các chủ đề thị giác cuốn hút bậc nhất:
+  - 🌌 **Thiên văn & Vũ trụ sâu:** Mô phỏng Lỗ đen 4K NASA bẻ cong không thời gian, du hành Tinh vân bong bóng 3D, Cực quang phương Bắc vẫy sóng.
+  - ❄️ **Thí nghiệm khoa học & ASMR:** Tinh thể tuyết đóng băng bong bóng xà phòng, Cắt cát động lực học bằng dao lam, Phản ứng đổi màu hóa học cầu vồng.
+  - 🍣 **Ẩm thực & Chế biến nghệ thuật:** Đầu bếp Nhật thái cá hồi sashimi 4K, Dòng chảy bọt kem Espresso Crema siêu cận, Áp chảo cá hồi bơ sôi xèo xèo.
+  - 🏺 **Thủ công mỹ nghệ:** Bàn xoay vuốt gốm đất sét êm dịu.
 - 📱 **Độ phân giải Full HD (1080 × 1920):** Sắc nét từng chi tiết trên mọi màn hình điện thoại.
 - 💬 **1 Thẻ bình luận duy nhất tại mỗi thời điểm:** Đọc tới đâu chuyển sang thẻ đó với hiệu ứng Spring Animation mượt mà.
 - 🎨 **Giao diện Threads Light 100% nguyên bản:** Header Threads dạng kính mờ, avatar bo tròn với badge dấu cộng `+`, thống kê tương tác (`♡`, `💬`, `🔁`, `➢`), thanh phản hồi dưới cùng.

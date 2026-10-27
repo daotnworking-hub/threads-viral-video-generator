@@ -43,18 +43,16 @@ python gen_threads_light_voices.py
 - Tốc độ đọc: `1.35x` dứt khoát, âm lượng: `1.45x`.
 - Tự động xuất `threads_light_timeline.json`.
 
-### Bước 2: Tạo Montage Nền ASMR 3 Giây/Cảnh (Full HD)
+### Bước 2: Tạo Montage Nền Đa Chủ Đề (Vũ Trụ • ASMR • Ẩm Thực) Chuyển Cảnh 3 Giây
 ```bash
 python build_asmr_montage.py
 ```
-- Tự động cắt 19 phân đoạn 3.08 giây từ kho footage chất lượng cao:
-  - Cắt cát động lực học bằng dao lam (Kinetic Sand ASMR)
-  - Đầu bếp Nhật thái cá hồi sashimi 4K
-  - Bọt kem Espresso vàng óng chảy siêu cận cảnh (Macro Crema)
-  - Chảo bơ nóng xèo xèo cá hồi áp chảo
-  - Phản ứng hóa học đổi màu cầu vồng (Rainbow Liquid Experiment)
-  - Bàn xoay gốm vuốt đất sét êm dịu (Pottery Wheel)
-- Ghép nối thành file `public/asmr_montage_1080p.mp4` chuẩn 1080x1920 @ 30 FPS.
+- Tự động cắt và ghép 19 phân đoạn 3.08 giây từ các chủ đề hot trend thị giác cao:
+  - **Thiên văn & Vũ trụ sâu:** Mô phỏng Lỗ đen 4K (NASA Goddard), Du hành Tinh vân (Bubble Nebula 3D), Dải lụa Cực quang phương Bắc (Aurora Borealis).
+  - **Thí nghiệm khoa học & ASMR:** Tinh thể tuyết đóng băng bong bóng xà phòng siêu cận cảnh, Dao lam cạo cát động lực học, Phản ứng đổi màu hóa học cầu vồng.
+  - **Ẩm thực & Chế biến:** Dao bếp thái cá hồi Sashimi 4K, Nhỏ giọt Espresso Crema vàng óng, Cá hồi áp chảo bơ xèo xèo.
+  - **Thủ công nghệ thuật:** Bàn xoay vuốt gốm đất sét mượt mà.
+- Ghép nối thành file `public/asmr_montage_1080p.mp4` chuẩn 1080x1920 @ 30 FPS không dính tạp âm bản quyền.
 
 ### Bước 3: Render Video Hoàn Thiện
 ```bash
