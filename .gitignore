@@ -7,3 +7,7 @@ out/
 *.tmp
 test_*.png
 preview_*.png
+
+public/clips/
+*.webm
+

@@ -1,16 +1,16 @@
-# 📱 Threads Viral Video Automation (Remotion + AI Voices)
+# 📱 Threads Viral Video Automation (Full HD 1080p • 3s ASMR Scene Switching)
 
-Tự động hóa sản xuất video viral chủ đề Threads (định dạng 9:16 dọc cho TikTok, Reels, YouTube Shorts) với giọng đọc AI đa nhân vật và video nền nấu ăn (Satisfying Cooking B-Roll).
+Tự động hóa sản xuất video viral chủ đề Threads (định dạng 9:16 dọc cho TikTok, Reels, YouTube Shorts) với độ phân giải **Full HD (1080x1920)**, cơ chế **chuyển cảnh 3 giây/lần** với kho footage ASMR & Thí nghiệm cuốn hút thị giác và giọng đọc AI đa nhân vật.
 
 ---
 
 ## ✨ Điểm Nổi Bật
 
-- 🎨 **Giao diện Threads Light 100% nguyên bản:** Avatar bo tròn với badge dấu cộng `+`, username, dấu tick, reaction heart, thống kê tương tác (`♡`, `💬`, `🔁`, `➢`).
-- ⚡ **Từng thẻ bình luận xuất hiện theo giọng đọc:** Đọc tới đâu chuyển thẻ tới đó với hiệu ứng Spring Animation mượt mà.
-- 🍳 **Video nền nấu ăn hấp dẫn (Satisfying Cooking B-Roll):** Giữ chân người xem (high retention rate) theo chuẩn thuật toán TikTok / Reels.
+- 🎬 **Chuyển cảnh 3 giây/lần (Chu kỳ Dopamine cao):** Tự động chuyển cảnh liên tục giữa các thước phim ASMR cắt cát động lực học, thái sushi 4K, nhỏ giọt espresso siêu cận, chảo bơ xèo xèo và phản ứng hóa học cầu vồng.
+- 📱 **Độ phân giải Full HD (1080 × 1920):** Sắc nét từng chi tiết trên mọi màn hình điện thoại.
+- 💬 **1 Thẻ bình luận duy nhất tại mỗi thời điểm:** Đọc tới đâu chuyển sang thẻ đó với hiệu ứng Spring Animation mượt mà.
+- 🎨 **Giao diện Threads Light 100% nguyên bản:** Header Threads dạng kính mờ, avatar bo tròn với badge dấu cộng `+`, thống kê tương tác (`♡`, `💬`, `🔁`, `➢`), thanh phản hồi dưới cùng.
 - 🎙️ **Giọng đọc AI đa nhân vật:** Luân phiên Giọng Nam (`vi-VN-NamMinhNeural`) và Giọng Nữ (`vi-VN-HoaiMyNeural`), tốc độ 1.35x dứt khoát, âm lượng to rõ.
-- ⏱️ **Tự động tính toán Timeline:** Đo thời lượng từng câu thoại bằng `ffprobe` và khớp chính xác từng frame trong Remotion.
 
 ---
 
@@ -18,10 +18,7 @@ Tự động hóa sản xuất video viral chủ đề Threads (định dạng 9
 
 ### 1. Cài đặt thư viện:
 ```bash
-# Cài đặt Node modules cho Remotion
 npm install
-
-# Cài đặt gói Python cho TTS
 pip install edge-tts gTTS
 ```
 
@@ -30,14 +27,14 @@ pip install edge-tts gTTS
 python gen_threads_light_voices.py
 ```
 
-### 3. Xem trước (Preview Remotion Studio):
+### 3. Tạo montage nền ASMR chuyển cảnh 3s:
 ```bash
-npm start
+python build_asmr_montage.py
 ```
 
 ### 4. Xuất video hoàn chỉnh:
 ```bash
-npx remotion render ThreadsCommentReader out/threads_cooking_viral.mp4 --concurrency=4
+npx remotion render ThreadsCommentReader out/threads_asmr_viral_1080p.mp4 --concurrency=4
 ```
 
 ---
@@ -45,11 +42,10 @@ npx remotion render ThreadsCommentReader out/threads_cooking_viral.mp4 --concurr
 ## 📂 Cấu Trúc Thư Mục
 
 - `PROMPTS.md`: Lưu trữ toàn bộ Prompt và kịch bản chuẩn cho video.
-- `WORKFLOW_GUIDE.md`: Hướng dẫn chi tiết từng bước vận hành từ tìm topic đến render.
+- `WORKFLOW_GUIDE.md`: Hướng dẫn chi tiết quy trình 3s chuyển cảnh.
+- `build_asmr_montage.py`: Script tự động tạo video nền 19 cảnh ASMR 1080p.
 - `gen_threads_light_voices.py`: Script Python tạo giọng đọc và đồng bộ hóa frame.
-- `src/ThreadsCommentReader.tsx`: Component Remotion hiển thị giao diện Threads.
-- `public/cooking_bg.mp4`: Video nền nấu ăn chuẩn 9:16.
-- `public/threads_light_audio.mp3`: File âm thanh giọng đọc hoàn chỉnh.
+- `src/ThreadsCommentReader.tsx`: Component Remotion Full HD 1080x1920.
 
 ---
 
