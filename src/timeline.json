@@ -1,0 +1,51 @@
+{
+  "totalDuration": 40.394,
+  "totalFrames": 1212,
+  "sections": [
+    {
+      "id": "intro",
+      "file": "intro.mp3",
+      "start": 0.0,
+      "end": 4.176,
+      "duration": 4.176,
+      "startFrame": 0,
+      "endFrame": 125
+    },
+    {
+      "id": "c1",
+      "file": "c1.mp3",
+      "start": 4.426,
+      "end": 16.426000000000002,
+      "duration": 12.0,
+      "startFrame": 133,
+      "endFrame": 493
+    },
+    {
+      "id": "c2",
+      "file": "c2.mp3",
+      "start": 16.676000000000002,
+      "end": 26.42,
+      "duration": 9.744,
+      "startFrame": 500,
+      "endFrame": 793
+    },
+    {
+      "id": "c3",
+      "file": "c3.mp3",
+      "start": 26.67,
+      "end": 36.75,
+      "duration": 10.08,
+      "startFrame": 800,
+      "endFrame": 1102
+    },
+    {
+      "id": "outro",
+      "file": "outro.mp3",
+      "start": 37.0,
+      "end": 40.144,
+      "duration": 3.144,
+      "startFrame": 1110,
+      "endFrame": 1204
+    }
+  ]
+}

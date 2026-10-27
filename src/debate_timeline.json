@@ -1,0 +1,51 @@
+{
+  "totalDuration": 38.264,
+  "totalFrames": 1148,
+  "sections": [
+    {
+      "id": "intro",
+      "file": "d_intro.mp3",
+      "start": 0.0,
+      "end": 3.144,
+      "duration": 3.144,
+      "startFrame": 0,
+      "endFrame": 94
+    },
+    {
+      "id": "c1",
+      "file": "d_c1.mp3",
+      "start": 3.4240000000000004,
+      "end": 12.16,
+      "duration": 8.736,
+      "startFrame": 103,
+      "endFrame": 365
+    },
+    {
+      "id": "c2",
+      "file": "d_c2.mp3",
+      "start": 12.44,
+      "end": 23.816,
+      "duration": 11.376,
+      "startFrame": 373,
+      "endFrame": 714
+    },
+    {
+      "id": "c3",
+      "file": "d_c3.mp3",
+      "start": 24.096,
+      "end": 33.072,
+      "duration": 8.976,
+      "startFrame": 723,
+      "endFrame": 992
+    },
+    {
+      "id": "outro",
+      "file": "d_outro.mp3",
+      "start": 33.352000000000004,
+      "end": 37.984,
+      "duration": 4.632,
+      "startFrame": 1001,
+      "endFrame": 1140
+    }
+  ]
+}

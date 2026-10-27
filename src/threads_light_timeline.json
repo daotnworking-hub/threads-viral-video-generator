@@ -1,0 +1,68 @@
+{
+  "fps": 30,
+  "totalFrames": 1724,
+  "parts": [
+    {
+      "id": "post",
+      "author": "Chuyện Người Lớn",
+      "handle": "chuyennguoilon.vn",
+      "time": "5h",
+      "text": "Bạn có biết, tại sao người lớn khi ngồi quán ăn hay cà phê, thường có thói quen né tránh ánh mắt của những người bán vé số dạo?",
+      "startFrame": 10,
+      "endFrame": 169,
+      "durationSec": 5.319458
+    },
+    {
+      "id": "c1",
+      "commentIndex": 1,
+      "author": "Minh Trí",
+      "handle": "minhtri.journey",
+      "time": "4h",
+      "likes": "19.8K",
+      "replies": "542",
+      "text": "Không phải vì vô tâm hay coi thường đâu bạn. Người lớn né tránh là vì họ sợ lòng trắc ẩn của chính mình. Nhiều khi trong ví chỉ còn vài chục nghìn lo cho ngày mai, nhìn vào đôi mắt khắc khổ của các cô chú là mềm lòng ngay. Né đi là cách để bảo vệ bản thân khỏi cảm giác bất lực vì muốn giúp mà không đủ sức.",
+      "startFrame": 181,
+      "endFrame": 603,
+      "durationSec": 14.082667
+    },
+    {
+      "id": "c2",
+      "commentIndex": 2,
+      "author": "Hoàng Mai",
+      "handle": "hoangmai.life",
+      "time": "3h",
+      "likes": "28.5K",
+      "replies": "912",
+      "text": "Chuẩn luôn bạn ơi. Với lại ở quán xá có một thực tế là: chỉ cần bạn ngước lên trả lời một câu dù rất lịch sự, người ta cũng sẽ thấy có hy vọng và đứng lại nài nỉ, chèo kéo rất lâu. Còn nếu mình vờ không nghe, không nhìn thì người ta mời một lúc không thấy tín hiệu rồi sẽ tự rời đi. Người lớn né tránh là để không rơi vào tình huống khó xử cho cả hai bên.",
+      "startFrame": 613,
+      "endFrame": 1116,
+      "durationSec": 16.782375
+    },
+    {
+      "id": "c3",
+      "commentIndex": 3,
+      "author": "Quang Huy",
+      "handle": "quanghuy.story",
+      "time": "2h",
+      "likes": "35.2K",
+      "replies": "1.2K",
+      "text": "Đúng vậy ạ. Hồi nhỏ mình cũng trách sao người lớn lạnh lùng thế. Đến khi tự đi làm kiếm từng đồng, gánh vác tiền nhà tiền điện mới hiểu. Ánh mắt né tránh đó không phải là lạnh nhạt, mà là một tiếng thở dài bất lực của những người lớn cũng đang chật vật mưu sinh.",
+      "startFrame": 1126,
+      "endFrame": 1470,
+      "durationSec": 11.489583
+    },
+    {
+      "id": "c4",
+      "commentIndex": 4,
+      "author": "Thanh Thảo",
+      "handle": "thanhthao_talks",
+      "time": "1h",
+      "likes": "12.6K",
+      "replies": "315",
+      "text": "Mỗi người một hoàn cảnh, từ chối hay ủng hộ đều cần sự tôn trọng. Còn bạn, bạn nghĩ sao về thói quen này của người lớn?",
+      "startFrame": 1480,
+      "endFrame": 1669,
+      "durationSec": 6.329042
+    }
+  ]
+}
